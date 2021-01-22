@@ -24,6 +24,7 @@ function checkForMatch() {
         disableCards(); //desabilitar o card se não for igual 
         return;
     }
+
     unflipCards();
 }
 
