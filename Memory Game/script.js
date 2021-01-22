@@ -1,3 +1,5 @@
+alert('Bem vindo ao Jogo da Memoria! Iniciando a partida!!')
+
 const cards = document.querySelectorAll('.card');
 let hasFlippedCard = false;
 let firstCard, secondCard;
