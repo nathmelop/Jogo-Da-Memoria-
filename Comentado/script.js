@@ -1,3 +1,5 @@
+/*
+
 const cards = document.querySelectorAll('.card');
 let hasFlippedCard = false;
 let firstCard, secondCard;
@@ -66,3 +68,5 @@ function resetBoard() {
 cards.forEach((card) => {
     card.addEventListener('click', flipCard) // add um evento de click e acionar a funcao flip card 
 }); // ele add e tira
+
+*/
